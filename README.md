@@ -1,3 +1,8 @@
+Structure:
+
+1. TDL.py - training the model, n_session = 100 n_games
+2. TDLPlay.py - Play with the model or play 2048 on your own
+
 Reference:
 
 1. https://github.com/alanhyue/RL-2048-with-n-tuple-network/
