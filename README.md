@@ -1,7 +1,10 @@
 Structure:
 
 1. TDL.py - training the model, n_session = 100 n_games
-2. TDLPlay.py - Play with the model or play 2048 on your own
+2. TDLP.py - Play with the model or play 2048 on your own
+3. TDLM.py - given metrics, analyze data
+4. agents/ - Pre trained agent of 50k games 
+5. metrics/ - metrics of the agent
 
 Reference:
 
